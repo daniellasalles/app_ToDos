@@ -1,2 +1,4 @@
 # app_ToDos
-Curso Javascript - Rocketseat
+Aplicação desenvolvida no Curso Javascript - Rocketseat
+
+Aplicação simples de lista de tarefas, com funções de Adicionar tarefa e excluir tarefa, com armazenamento no Storage
